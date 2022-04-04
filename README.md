@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kavunap
-- 👀 I’m interested in Ruby on Rails, PHP Laravel
+- 👋 Hi, I’m Paul KAVUNA
+- 👀 I’m interested in Ruby on Rails and PHP Laravel
 - 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on text contents writing
 - 📫 Reach me through email: pkavuna@gmail.com, Phone:+250 782215105
